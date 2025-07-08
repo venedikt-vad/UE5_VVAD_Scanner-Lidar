@@ -1,4 +1,4 @@
-#UE5 Scanner/Lidar plugin
+# UE5 Scanner/Lidar plugin
 
 This plugin adds Lidar/Scanner mechanic to UE5.
 
