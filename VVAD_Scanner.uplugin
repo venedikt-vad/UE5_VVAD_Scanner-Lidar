@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "VVAD_Scanner",
+	"Description": "",
+	"Category": "Other",
+	"CreatedBy": "VVAD",
+	"CreatedByURL": "https://v-vad.ru",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"EngineVersion": "5.4.0",
+	"CanContainContent": true,
+	"IsBetaVersion": true,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "VVAD_Scanner",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
