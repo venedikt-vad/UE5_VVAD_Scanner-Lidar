@@ -2,6 +2,6 @@
 
 This plugin adds Lidar/Scanner mechanic to UE5.
 
-https://www.youtube.com/watch?v=px14QwIO0fo
-https://venediktvad.itch.io/vvad-scanner
+[Preview video](https://www.youtube.com/watch?v=px14QwIO0fo) <br/>
+[Itch.io page](https://venediktvad.itch.io/vvad-scanner)
 
